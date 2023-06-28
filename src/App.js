@@ -4,19 +4,14 @@ import './App.css';
 import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
-import Button from "@mui/material/Button";
 import { useTheme } from '@mui/material/styles';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import Paper from '@mui/material/Paper';
 // Components
 import Navbar from './components/navbar/Navbar';
-import Footer from './components/footer/Footer';
 // Images
 import Andrea from "./images/andrea.jpeg";
 import Background from "./images/background.jpeg"
-// Pages
-import VotreOstheopathe from './pages/VotreOstheopathe/page';
-import Informations from './pages/Informations/page';
 // Framer Motion
 import { motion } from "framer-motion"
 import ButtonReservation from './components/button/Button';

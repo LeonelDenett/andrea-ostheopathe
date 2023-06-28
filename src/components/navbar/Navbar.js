@@ -17,8 +17,8 @@ import { motion } from "framer-motion";
 
 function Navbar() {
   const icons = [
-    {icon: <Link href="tel:1168679999"><PhoneRounded className="icon" fontSize="large"/></Link>},
-    {icon:  <Link target="_blank" href="https://www.google.com.ar/maps/place/29400+Landivisiau/@48.5097549,-4.0789294,15.25z/data=!4m6!3m5!1s0x4811506e046b9347:0x92fd7f8ac05ce55d!8m2!3d48.510131!4d-4.073265!16s%2Fm%2F03gwhcc?entry=ttu">
+    {icon: <Link href="tel:0666575278"><PhoneRounded className="icon" fontSize="large"/></Link>},
+    {icon:  <Link target="_blank" href="https://www.google.com/maps/place/Docteur+Patrice+Nabbe/@48.6436445,-4.3376759,17z/data=!4m14!1m7!3m6!1s0x481401dad8357a3f:0x5b6629e9157a4d97!2sDocteur+Patrice+Nabbe!8m2!3d48.643641!4d-4.335101!16s%2Fg%2F1tcwfctk!3m5!1s0x481401dad8357a3f:0x5b6629e9157a4d97!8m2!3d48.643641!4d-4.335101!16s%2Fg%2F1tcwfctk?hl=fr&entry=ttu">
               <LocationOnRounded className="icon" fontSize="large"/>
             </Link>
     },
