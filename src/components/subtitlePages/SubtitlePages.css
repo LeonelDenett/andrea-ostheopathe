@@ -1,0 +1,17 @@
+.header {
+    background-color:  #d49487;
+    min-height: 8rem;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: .5rem;
+    text-transform: uppercase;
+}
+.divider {
+    width: 4px;
+    background-color: #F2F9F1;
+}
+.subtitle {
+    padding-right: 1rem;
+}

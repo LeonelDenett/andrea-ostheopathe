@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #F2F9F1 !important;
+    border-radius: 0 !important;
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+    border-bottom: 3px solid #d49487;
+  }
+  .toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    background-color: #F2F9F1 !important;
+  }
+  .icon {
+    color: #5b8883;
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+  .doctoLibContainer {
+    height: 4.5rem;
+    width: 7rem;
+    display: flex;
+    background-color: transparent !important;
+  }
+  .iconDoctolib {
+    width: 100%;
+    position: relative;
+    object-fit: fill;
+    object-position: center;
+    border-radius: 1rem;
+  }

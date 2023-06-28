@@ -1,0 +1,36 @@
+.mainInformation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 1.5rem;
+}
+.informationsPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+.informationsContainer {
+    display: flex;
+    justify-content: center;
+    background-color:  "#F2F9F1" !important;
+    border-radius: 1rem;
+    border: #d49487 2px solid;
+    gap: 1rem;
+    padding: 1rem;
+}
+.clientsContainer {
+    padding: 1rem;
+    margin: 1rem;
+    margin-bottom: 1.5rem;
+    border-radius: 1rem;
+    background-color: #5b8883 !important;
+    border: 2px solid rgba(0, 0, 0, 0.27);
+}
+.clientsInformation {
+    margin-top: .5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}

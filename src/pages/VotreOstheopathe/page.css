@@ -1,0 +1,58 @@
+.mainOstheopathe {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    background-color: #F2F9F1 !important;
+}
+.divider {
+    width: 4px;
+    background-color: #F2F9F1 !important;
+}
+.subtitle {
+    padding-right: 1rem;
+}
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 25rem;
+    margin: 1rem;
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #F2F9F1;
+    border-radius: 1rem;
+    border: 2px solid #d49487;
+}
+.mutuelle {
+    background-color: #5b8883 !important;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+    margin-top: 0rem;
+    border: 2px solid rgba(0, 0, 0, 0.27);
+}
+.reservationContainer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+    margin-top: -.5rem;
+}
+.reservationButton {
+    margin-top: .5rem;
+    max-height: 2rem;
+    border-radius: .75rem;
+    margin-bottom: 1rem;
+}
+.button {
+    height: 100%;
+    width: 100%;
+    padding: 1.5rem;
+    font-weight: 700;
+    background-color: #5b8883;
+    border: 2px solid rgba(0, 0, 0, 0.27);
+    color: #F2F9F1;
+    border-radius: .75rem;
+}
